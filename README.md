@@ -1,5 +1,8 @@
 Home Lab Power Control
 
+<img width="1470" height="956" alt="Screenshot 2026-11-10 at 16 06 06" src="https://github.com/user-attachments/assets/7c6db912-1b23-4867-983d-96f80f230f34" />
+
+
 Secure, self-hosted power management and orchestration for a multi-device home laboratory.
 
 A lightweight web-based control system designed to remotely power on, gracefully shut down, and monitor physical homelab infrastructure through a single interface.
